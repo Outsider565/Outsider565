@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Outsider565&count_private=true&show_icons=true&theme=radical" />
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Outsider565&count_private=true&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=fffff" /> -->
 My name is Shaowen, a third-year student at Fudan University studying computer science. I'm so glad that you are viewing my homepage, and I'd like to further introduce myself.
 
 ### My past experience 👨‍🎓
