@@ -2,10 +2,13 @@
 <img align="full" src="https://github-readme-stats.vercel.app/api?username=Outsider565&count_private=true&show_icons=true&theme=radical" />
 
 
-
 My name is Shaowen, a third-year student at Fudan University studying computer science. I'm so glad that you are viewing my homepage, and I'd like to further introduce myself.
 
 ### My past experience 👨‍🎓
+
+- Developed an [Y86-simulator](https://github.com/ZiYang-xie/ICS_Y86) using C++
+- Developed a front-end and back-end seperated wechat applet(微信小程序) using Golang and docker
+- Engaged in research in [UChicago CHAI lab](https://chicagohai.github.io/) about nlp
 
 ### My current work ⌚
 
@@ -14,9 +17,19 @@ My name is Shaowen, a third-year student at Fudan University studying computer s
 
 ### My interest ❤️
 
+- I'm learning typescript(a very lovely language) and react framework
+
 ### How to reach me 📭
 
+- Email: wangsw5653@gmail.com (If you are in China and unable to send mail to gmail, alternatively, you can find me at wangsw19@fudan.edu.cn)
+
 ### Fun fact about me 🤣
+
+- I am a photography lover
+- My favorite movie is interstellar and my favorite musical is Hamilton
+- I love talking with different people and making friends. Invite me to eat out!
+
+Thank you for reading!
 
 
 
