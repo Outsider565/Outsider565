@@ -7,7 +7,7 @@ My name is Shaowen, a third-year student at Fudan University studying computer s
 ### My past experience 👨‍🎓
 
 - Developed an [Y86-simulator](https://github.com/ZiYang-xie/ICS_Y86) using C++
-- Developed a front-end and back-end seperated wechat applet(微信小程序) using Golang and docker
+- Developed a [front-end and back-end seperated wechat applet(微信小程序) using Golang and docker](https://github.com/Outsider565/Database-PJ)
 - Engaged in research in [UChicago CHAI lab](https://chicagohai.github.io/) about nlp
 
 ### My current work ⌚
