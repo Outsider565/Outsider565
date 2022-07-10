@@ -6,14 +6,19 @@ My name is Shaowen, a third-year student at Fudan University studying computer s
 
 ### My past experience 👨‍🎓
 
+- Interned at Apple Shanghai, working on maching learning and data visualization.
 - Developed an [Y86-simulator](https://github.com/ZiYang-xie/ICS_Y86) using C++
 - Developed a [front-end and back-end seperated wechat applet(微信小程序) using Golang and docker](https://github.com/Outsider565/Database-PJ)
 - Engaged in research in [UChicago CHAI lab](https://chicagohai.github.io/) about nlp
 
+### My teaching ✒️
+
+- TA of the [object-oriented programming course](https://outsider565.notion.site/outsider565/2022-7a3c38d0453a4ec7898f4ea2d643fa48)
+
+
 ### My current work ⌚
 
-- I'm doing internship at Apple Shanghai, working on maching learning and data visualization.
-- I'm the TA of the [object-oriented programming course](https://outsider565.notion.site/outsider565/2022-7a3c38d0453a4ec7898f4ea2d643fa48), labs and pjs will be published after this semester.
+- I'm in the AI4Science Group in MSRA, doing reseach about information extraction from literature
 
 ### My interest ❤️
 
