@@ -2,7 +2,7 @@
 <img align="full" src="https://github-readme-stats.vercel.app/api?username=Outsider565&count_private=true&show_icons=true&theme=radical" />
 
 
-My name is Shaowen, a final-year student at Fudan University studying computer science. I'm so glad that you are viewing my homepage, and I'd like to further introduce myself.
+My name is Shaowen, a final-year student at Fudan University studying computer science. I'm going to pursue my graduate study at Tsinghua University, IIIS. I'm so glad that you are viewing my homepage, and I'd like to further introduce myself.
 
 ### My past experience 👨‍🎓
 
