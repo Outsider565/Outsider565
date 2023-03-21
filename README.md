@@ -4,6 +4,7 @@
 
 My name is Shaowen, a final-year student at Fudan University studying computer science. I'm going to pursue my graduate study at Tsinghua University, IIIS. I'm so glad that you are viewing my homepage, and I'd like to further introduce myself.
 
+You can download my CV [here](ShaowenWang+CV+2022-11.pdf).
 ### My past experience 👨‍🎓
 
 - Interned at Apple Shanghai, working on maching learning and data visualization.
