@@ -1,5 +1,4 @@
 ### Hi there 👋
-<img align="full" src="https://github-readme-stats.vercel.app/api?username=Outsider565&count_private=true&show_icons=true&theme=radical" />
 
 My name is Shaowen, and I am currently a graduate student at the Institute for Interdisciplinary Information Sciences (IIIS) at Tsinghua University. I had the privilege of obtaining my undergraduate degree in Computer Science from Fudan University.
 
