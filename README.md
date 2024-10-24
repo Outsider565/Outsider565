@@ -30,7 +30,7 @@ You can view my cv here: [linkedin](https://www.linkedin.com/in/shaowen-wang-656
 ### My publications 📄
 
 - [Generative Table Pre-training Empowers Models for Tabular Prediction (EMNLP2023)](https://arxiv.org/abs/2305.09696)
-- [LoRA-GA: Low-Rank Adaptation with Gradient Approximation](https://arxiv.org/abs/2407.05000)
+- [LoRA-GA: Low-Rank Adaptation with Gradient Approximation (NeurIPS2024)](https://arxiv.org/abs/2407.05000)
 
 ### How to reach me 📭
 
