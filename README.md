@@ -31,6 +31,8 @@ You can view my cv here: [linkedin](https://www.linkedin.com/in/shaowen-wang-656
 
 - [Generative Table Pre-training Empowers Models for Tabular Prediction (EMNLP2023)](https://arxiv.org/abs/2305.09696)
 - [LoRA-GA: Low-Rank Adaptation with Gradient Approximation (NeurIPS2024)](https://arxiv.org/abs/2407.05000)
+- [CAdam: Confidence-Based Optimization for Online Learning](https://arxiv.org/abs/2411.19647)
+- [Understanding LLM Behaviors via Compression: Data Generation, Knowledge Acquisition and Scaling Laws](https://arxiv.org/abs/2504.09597)
 
 ### How to reach me 📭
 
