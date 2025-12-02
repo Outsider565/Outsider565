@@ -1,47 +1,76 @@
 ### Hi there 👋
 
-My name is Shaowen, and I am currently a graduate student at the Institute for Interdisciplinary Information Sciences (IIIS) at Tsinghua University. I had the privilege of obtaining my undergraduate degree in Computer Science from Fudan University.
+My name is **Shaowen Wang**, and I am currently a Ph.D. student in Computer Science at **Tsinghua University**, advised by [Prof. Jian Li](https://people.iiis.tsinghua.edu.cn/~jianli/). I received my B.S. degree in Computer Science from **Fudan University** (Rank 1/110).
 
-You can view my cv here: [linkedin](https://www.linkedin.com/in/shaowen-wang-65606b20a/)
-
-### My past experience 👨‍🎓
-
-- Interned at the Turing Artificial Intelligence Institute of Nanjing (2023.07 - 2024.06).
-- Interned at Microsoft Research Asia (MSRA), working on information extraction from literature (2022.07-2023.06).
-- Interned at Apple Shanghai, working on machine learning and data visualization (2022.01-2022.06).
-- Developed an [Y86-simulator](https://github.com/ZiYang-xie/ICS_Y86) using C++.
-- Developed a [front-end and back-end separated WeChat applet (微信小程序) using Golang and Docker](https://github.com/Outsider565/Database-PJ).
-- Engaged in research about NLP in [UChicago CHAI lab](https://chicagohai.github.io/).
+My research interests lie in **Large Language Models (LLMs)**, with a focus on:
+* **Arch**: Positional encodings (RoPE), parameter-efficient fine-tuning (PEFT), and optimization.
+* **Data**: Connecting data compression, knowledge acquisition, hallucination, and prediction.
 
 
-### My teaching ✒️
+---
 
-- TA of the [object-oriented programming course](https://outsider565.notion.site/outsider565/2022-7a3c38d0453a4ec7898f4ea2d643fa48).
+### 📝 Publications
 
-### My current work ⌚
+**[When Bias Pretends to Be Truth: How Spurious Correlations Undermine Hallucination Detection in LLMs](https://arxiv.org/abs/2511.07318)**
+*Working Paper / Under Review (2025)*
+> Identified a critical class of hallucinations driven by spurious correlations that are immune to model scaling and evade existing detection methods.
 
-- Currently at Tencent's Hunyuan Large Model Research, focusing on efficient fine-tuning and inference of large models, as well as long text processing.
+**[Understanding LLM Behaviors via Compression: Data Generation, Knowledge Acquisition and Scaling Laws](https://arxiv.org/abs/2504.09597)**
+**NeurIPS 2025**
+> Established a unified information-theoretic framework (Syntax-Knowledge model) to explain scaling laws and hallucination mechanisms by connecting compression and prediction.
 
-### My research interests 🔬
+**[CAdam: Confidence-Based Optimization for Online Learning](https://arxiv.org/abs/2411.19647)**
+*Preprint (2024)*
+> Proposed a confidence-based optimizer that selectively updates parameters based on momentum-gradient consistency, showing superior noise robustness.
 
-- Efficient fine-tuning and inference of large models.
-- Long text processing.
+**[LoRA-GA: Low-Rank Adaptation with Gradient Approximation](https://arxiv.org/abs/2407.05000)**
+**NeurIPS 2024, Merged into Huggingface/peft**
+> Introduced a novel initialization method aligning low-rank gradients with full fine-tuning, accelerating convergence by 2-4x.
 
-### My publications 📄
+**[Generative Table Pre-training Empowers Models for Tabular Prediction](https://arxiv.org/abs/2305.09696)**
+**EMNLP 2023**
+> Developed TAPTAP, a pre-training approach using synthetic tables to enhance tabular prediction models.
 
-- [Generative Table Pre-training Empowers Models for Tabular Prediction (EMNLP2023)](https://arxiv.org/abs/2305.09696)
-- [LoRA-GA: Low-Rank Adaptation with Gradient Approximation (NeurIPS2024)](https://arxiv.org/abs/2407.05000)
-- [CAdam: Confidence-Based Optimization for Online Learning](https://arxiv.org/abs/2411.19647)
-- [Understanding LLM Behaviors via Compression: Data Generation, Knowledge Acquisition and Scaling Laws](https://arxiv.org/abs/2504.09597)
+---
 
-### How to reach me 📭
+### 💻 Experience
 
-- Email: wangsw5653@gmail.com or wangsw23@mails.tsinghua.edu.cn
+**ByteDance (Seed Team)** | *Research Intern*
+*Beijing, China | Oct. 2025 - Present*
+* Exploring non-uniform width Transformers via dynamic token merging.
+* Working on muP, completeP, hyperparameter tuning, and scaling law fitting for 1B+ models.
 
-### Fun fact about me 🤣
+**Tencent (Hunyuan Team)** | *Research Intern*
+*Beijing, China | July 2024 - Sept. 2025*
+* Participated in building long-context pretraining corpora and analyzing long-range dependencies.
+* Proposed **AdaRope** to enhance model performance on long contexts during pre-training and extrapolation.
 
-- I am a photography lover.
-- My favorite movie is Interstellar, and my favorite musical is Hamilton.
-- I love talking with different people and making friends. Invite me to eat out!
+**Microsoft Research Asia (AI4Science Lab)** | *Research Intern*
+*Shanghai, China | July 2022 - Aug. 2023*
+* Constructed catalyst corpus for BioGPT and designed generative information extraction algorithms with CoT reasoning.
 
-Thank you for reading!
+**Apple Inc.** | *Software Engineer Intern*
+*Shanghai, China | Jan. 2022 - June 2022*
+* Developed anomaly detection tools and optimized internal analysis libraries using C++ and Pybind11.
+
+---
+
+### 🛠 Technical Skills
+
+* **Deep Learning:** PyTorch, HuggingFace Transformers, Llama Factory, DeepSpeed, FSDP, Accelerate, PEFT.
+* **Languages:** Python (6 yrs), C/C++ (4 yrs), Go, Java, System Verilog.
+* **Tools:** Numpy, Pandas, Matplotlib, Gradio, Flask, Docker.
+
+---
+
+### 🤣 Fun fact about me
+
+* 📸 I am a photography lover.
+* 🎬 My favorite movie is *Interstellar*, and my favorite musical is *Hamilton*.
+* 🤝 I love talking with different people and making friends. Invite me to eat out!
+
+---
+
+### 📭 How to reach me
+
+* **Email**: `wangsw23@mails.tsinghua.edu.cn` / `wangsw5653@gmail.com`
