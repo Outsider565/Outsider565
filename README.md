@@ -2,9 +2,11 @@
 
 My name is **Shaowen Wang**, and I am currently a Ph.D. student in Computer Science at **Tsinghua University**, advised by [Prof. Jian Li](https://people.iiis.tsinghua.edu.cn/~jianli/). I received my B.S. degree in Computer Science from **Fudan University** (Rank 1/110).
 
-My research interests lie in **Large Language Models (LLMs)**, with a focus on:
-* **Arch**: Positional encodings (RoPE), parameter-efficient fine-tuning (PEFT), and optimization.
-* **Data**: Connecting data compression, knowledge acquisition, hallucination, and prediction.
+My research aims to answer two fundamental questions about Large Language Models:
+
+- How can we build more data-efficient learners? I explore novel architectures and optimization techniques to improve sample efficiency. The goal is to push the boundaries of how much knowledge a model can extract from limited data budgets while maintaining computational efficiency.
+
+- How do models actually learn from data? I study the physics of learning inside LLMs. This involves dissecting the relationship between data distribution and model behaviors—analyzing the order of knowledge acquisition, the duality between compression and prediction, and how data artifacts (like spurious correlations) fundamentally constrain model capacity and cause hallucinations.
 
 
 ---
