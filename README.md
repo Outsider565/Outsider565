@@ -13,6 +13,10 @@ My research aims to answer two fundamental questions about Large Language Models
 
 ### 📝 Publications
 
+**AdaRope: Adaptive Rotary Position Embeddings for Long-Context Transformers**
+*Working Paper (2025)*
+> Proposed **AdaRope**, a drop-in replacement for RoPE that utilizes learnable per-head frequencies (DimRope) and length-aware scaling (AdaScale). It significantly outperforms Yarn and ABF in both pre-training and long-context extrapolation with negligible parameter overhead.
+
 **[When Bias Pretends to Be Truth: How Spurious Correlations Undermine Hallucination Detection in LLMs](https://arxiv.org/abs/2511.07318)**
 *Working Paper / Under Review (2025)*
 > Identified a critical class of hallucinations driven by spurious correlations that are immune to model scaling and evade existing detection methods.
