@@ -8,9 +8,9 @@ My name is **Shaowen Wang**, and I am currently a Ph.D. student in Computer Scie
 ## 💫Research Interest
 My research aims to answer two fundamental questions about Large Language Models:
 
-- How can we build more data-efficient learners? I explore novel architectures and optimization techniques to improve sample efficiency. The goal is to push the boundaries of how much knowledge a model can extract from limited data budgets while maintaining computational efficiency.
+- **How can we build more data-efficient learners?** I explore novel architectures and optimization techniques to improve sample efficiency. The goal is to push the boundaries of how much knowledge a model can extract from limited data budgets while maintaining computational efficiency.
 
-- How do models actually learn from data? I study the physics of learning inside LLMs. This involves dissecting the relationship between data distribution and model behaviors—analyzing the order of knowledge acquisition, the duality between compression and prediction, and how data artifacts (like spurious correlations) fundamentally constrain model capacity and cause hallucinations.
+- **How do models actually learn from data?** I study the physics of learning inside LLMs. This involves dissecting the relationship between data distribution and model behaviors—analyzing the order of knowledge acquisition, the duality between compression and prediction, and how data artifacts (like spurious correlations) fundamentally constrain model capacity and cause hallucinations.
 
 
 ---
