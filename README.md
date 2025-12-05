@@ -65,19 +65,11 @@ My research aims to answer two fundamental questions about Large Language Models
 
 ---
 
-## 🛠 Technical Skills
-
-* **Deep Learning:** PyTorch, HuggingFace Transformers, Llama Factory, DeepSpeed, FSDP, Accelerate, PEFT.
-* **Languages:** Python (6 yrs), C/C++ (4 yrs), Go, Java, System Verilog.
-* **Tools:** Numpy, Pandas, Matplotlib, Gradio, Flask, Docker.
-
----
-
 ## 🤣 Fun fact about me
 
 * 📸 I am a photography lover.
 * 🎬 My favorite movie is *Interstellar*, and my favorite musical is *Hamilton*.
-* 🤝 I love talking with different people and making friends. Invite me to eat out!
+* 🤝 I love talking with different people and making friends. Invite me to eat out! （Or reach me for Guizhou food recommendations in Beijing/Shanghai）
 
 ---
 
