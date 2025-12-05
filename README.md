@@ -1,7 +1,11 @@
-### Hi there 👋
+# Shaowen Wang (Shawn)
+
+<img src="shaowen-image.jpeg" width="550" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
 My name is **Shaowen Wang**, and I am currently a Ph.D. student in Computer Science at **Tsinghua University**, advised by [Prof. Jian Li](https://people.iiis.tsinghua.edu.cn/~jianli/). I received my B.S. degree in Computer Science from **Fudan University** (Rank 1/110).
 
+
+## 💫Research Interest
 My research aims to answer two fundamental questions about Large Language Models:
 
 - How can we build more data-efficient learners? I explore novel architectures and optimization techniques to improve sample efficiency. The goal is to push the boundaries of how much knowledge a model can extract from limited data budgets while maintaining computational efficiency.
@@ -11,7 +15,7 @@ My research aims to answer two fundamental questions about Large Language Models
 
 ---
 
-### 📝 Publications
+## 📝 Publications
 
 **AdaRope: Adaptive Rotary Position Embeddings for Long-Context Transformers**
 *Working Paper (2025)*
@@ -39,7 +43,7 @@ My research aims to answer two fundamental questions about Large Language Models
 
 ---
 
-### 💻 Experience
+## 💻 Experience
 
 **ByteDance (Seed Team)** | *Research Intern*
 *Beijing, China | Oct. 2025 - Present*
@@ -61,7 +65,7 @@ My research aims to answer two fundamental questions about Large Language Models
 
 ---
 
-### 🛠 Technical Skills
+## 🛠 Technical Skills
 
 * **Deep Learning:** PyTorch, HuggingFace Transformers, Llama Factory, DeepSpeed, FSDP, Accelerate, PEFT.
 * **Languages:** Python (6 yrs), C/C++ (4 yrs), Go, Java, System Verilog.
@@ -69,7 +73,7 @@ My research aims to answer two fundamental questions about Large Language Models
 
 ---
 
-### 🤣 Fun fact about me
+## 🤣 Fun fact about me
 
 * 📸 I am a photography lover.
 * 🎬 My favorite movie is *Interstellar*, and my favorite musical is *Hamilton*.
@@ -77,6 +81,7 @@ My research aims to answer two fundamental questions about Large Language Models
 
 ---
 
-### 📭 How to reach me
+## 📭 How to reach me
 
 * **Email**: `wangsw23@mails.tsinghua.edu.cn` / `wangsw5653@gmail.com`
+* **Wechat**: ShaowenWang-Shawn
