@@ -17,12 +17,16 @@ My research aims to answer two fundamental questions about Large Language Models
 
 ## 📝 Publications
 
-**AdaRope: Adaptive Rotary Position Embeddings for Long-Context Transformers**
-*Working Paper (2025)*
-> Proposed **AdaRope**, a drop-in replacement for RoPE that utilizes learnable per-head frequencies (DimRope) and length-aware scaling (AdaScale). It significantly outperforms Yarn and ABF in both pre-training and long-context extrapolation with negligible parameter overhead.
+**[AdaRoPE: Not All Attention Heads Should Rotate and Scale Equally](https://icml.cc/virtual/2026/poster/60704)**
+**ICML 2026** | [ICML Poster](https://icml.cc/virtual/2026/poster/60704)
+> Proposed **AdaRoPE**, a drop-in replacement for RoPE that utilizes learnable per-head frequencies (DimRope) and length-aware scaling (AdaScale). It significantly outperforms Yarn and ABF in both pre-training and long-context extrapolation with negligible parameter overhead.
+
+**[Dynamic Large Concept Models: Latent Reasoning in an Adaptive Semantic Space](https://arxiv.org/abs/2512.24617)**
+**LIT@ICLR 2026 Best Paper** | [OpenReview](https://openreview.net/forum?id=vN7HfgJMMh)
+> Proposed **DLCM**, a hierarchical language modeling framework that learns variable-length semantic concepts from latent representations and reallocates computation from token-level processing to concept-level reasoning, improving efficiency under matched FLOPs.
 
 **[When Bias Pretends to Be Truth: How Spurious Correlations Undermine Hallucination Detection in LLMs](https://arxiv.org/abs/2511.07318)**
-*Working Paper / Under Review (2025)*
+**Principled Design for Trustworthy AI @ ICLR 2026** | [Workshop](https://trustworthy-ai-workshop.github.io/iclr2026/papers) | [OpenReview](https://openreview.net/forum?id=UXWhVL3iPF)
 > Identified a critical class of hallucinations driven by spurious correlations that are immune to model scaling and evade existing detection methods.
 
 **[Understanding LLM Behaviors via Compression: Data Generation, Knowledge Acquisition and Scaling Laws](https://arxiv.org/abs/2504.09597)**
@@ -30,7 +34,7 @@ My research aims to answer two fundamental questions about Large Language Models
 > Established a unified information-theoretic framework (Syntax-Knowledge model) to explain scaling laws and hallucination mechanisms by connecting compression and prediction.
 
 **[CAdam: Confidence-Based Optimization for Online Learning](https://arxiv.org/abs/2411.19647)**
-*Preprint (2024)*
+**CAO@ICLR 2026**
 > Proposed a confidence-based optimizer that selectively updates parameters based on momentum-gradient consistency, showing superior noise robustness.
 
 **[LoRA-GA: Low-Rank Adaptation with Gradient Approximation](https://arxiv.org/abs/2407.05000)**
@@ -53,7 +57,7 @@ My research aims to answer two fundamental questions about Large Language Models
 **Tencent (Hunyuan Team)** | *Research Intern*
 *Beijing, China | July 2024 - Sept. 2025*
 * Participated in building long-context pretraining corpora and analyzing long-range dependencies.
-* Proposed **AdaRope** to enhance model performance on long contexts during pre-training and extrapolation.
+* Proposed **AdaRoPE** to enhance model performance on long contexts during pre-training and extrapolation.
 
 **Microsoft Research Asia (AI4Science Lab)** | *Research Intern*
 *Shanghai, China | July 2022 - Aug. 2023*
