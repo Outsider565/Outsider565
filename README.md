@@ -15,7 +15,7 @@ My research aims to answer two fundamental questions about Large Language Models
 
 ---
 
-## 📝 Publications
+## 📝 Selected Publications
 
 **[AdaRoPE: Not All Attention Heads Should Rotate and Scale Equally](https://icml.cc/virtual/2026/poster/60704)**
 **ICML 2026** | [ICML Poster](https://icml.cc/virtual/2026/poster/60704)
